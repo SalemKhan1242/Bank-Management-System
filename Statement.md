@@ -381,7 +381,7 @@ The system, while simple in its current form, serves as an excellent foundation 
 | **Student Name** | Ahmad Salem Khan |
 | **Registration Number** | 25BAI11418 |
 | **University** | VIT Bhopal University |
-| **Professor** | Rizwan Urrahman |
+| **Professor** | Dr.Rizwan Urrahman |
 | **Programming Language** | Java |
 | **Submission Date** | September 18, 2026 |
 
