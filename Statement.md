@@ -244,31 +244,31 @@ Error Handling: try/catch for invalid numeric input; guard clauses for business 
 ### 12. SUCCESS CRITERIA
 
 **Functional Criteria:**
-- ✓ Account creation, deposit, withdrawal, and balance check all work correctly
-- ✓ Duplicate account numbers are rejected
-- ✓ Insufficient balance withdrawals are rejected
-- ✓ Menu system functions correctly for all 8 options
-- ✓ Invalid (non-numeric) inputs are handled gracefully without crashing
+-  Account creation, deposit, withdrawal, and balance check all work correctly
+-  Duplicate account numbers are rejected
+-  Insufficient balance withdrawals are rejected
+-  Menu system functions correctly for all 8 options
+-  Invalid (non-numeric) inputs are handled gracefully without crashing
 
 **Code Quality Criteria:**
-- ✓ Code is readable and organized into logical classes
-- ✓ Fields are encapsulated as `private` with controlled access via getters
-- ✓ Methods are modular and reusable (`deposit()`, `withdraw()`, `findAccount()`, etc.)
-- ✓ Comments explain non-obvious logic
-- ✓ Consistent naming and formatting conventions
+-  Code is readable and organized into logical classes
+-  Fields are encapsulated as `private` with controlled access via getters
+-  Methods are modular and reusable (`deposit()`, `withdraw()`, `findAccount()`, etc.)
+-  Comments explain non-obvious logic
+-  Consistent naming and formatting conventions
 
 **Documentation Criteria:**
-- ✓ Clear and comprehensive README
-- ✓ Detailed statement of purpose (this document)
-- ✓ Class responsibilities clearly described
-- ✓ Application workflow and data flow documented
-- ✓ Example usage provided for every feature
+-  Clear and comprehensive README
+-  Detailed statement of purpose (this document)
+-  Class responsibilities clearly described
+-  Application workflow and data flow documented
+-  Example usage provided for every feature
 
 **Performance Criteria:**
-- ✓ Account creation and balance updates: O(1) time complexity
-- ✓ Account lookup and "view all accounts": O(n) time complexity
-- ✓ Minimal memory overhead for typical account volumes
-- ✓ Immediate response for all console operations
+-  Account creation and balance updates: O(1) time complexity
+-  Account lookup and "view all accounts": O(n) time complexity
+-  Minimal memory overhead for typical account volumes
+-  Immediate response for all console operations
 
 ### 13. RISK ANALYSIS
 
